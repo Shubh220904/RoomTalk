@@ -1,6 +1,16 @@
 # RoomTalk
 RoomTalk is a real-time chat application built with Node.js, Express, and Socket.io. It allows users to join chat rooms and communicate instantly with others. Each user can join a room with a unique username, enhancing the chat experience by displaying who sent each message.
 
+Features
+Real-time Messaging: Experience instant communication with others in the chat room.
+Room-Based Chat: Join specific rooms to chat with users in the same room.
+Username Display: Each message shows the sender's username for better context.
+User-Friendly Interface: A clean and simple interface for easy interaction.
+
+Technologies Used
+Backend: Node.js, Express, Socket.io
+Frontend: React
+Styling: CSS
 
 Images-
 
